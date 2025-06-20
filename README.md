@@ -1,6 +1,31 @@
-# 💫 About Me:
-## 👋 Welcome to My Profile!<br><br>I am a **Full Stack Web Developer** with **3 years** of experience in the software development field. I am passionate about technology and enjoy working on a variety of web projects. Here is some more information about me:<br><br>- 💼 **Experience**: I have worked with various programming languages, but my primary focus has been on **PHP**. I have over 3 years of experience in web development using PHP. I am proficient in using **CodeIgniter 4 (CI4)** and **Laravel** to build efficient and reliable web applications.<br><br>- 🌱 **Continuous Learning**: Currently, I am focusing on expanding my skills by learning **Golang** and **JavaScript**. I believe that continuous learning is the key to success in the world of technology.<br><br>- 🔧 **Other Skills**: In addition to programming languages, I also have experience with various development tools like Git, Docker, and SQL database management.<br><br>- 📫 **Contact**: You can reach me at ahdirmai@gmail.com or visit my [LinkedIn](https://www.linkedin.com/in/ridha-fahmi-junaidi-151450226/) profile.<br><br>Thank you for visiting my profile. Feel free to get in touch if you have any<br>
+# 💫 About Me
 
+## 👋 Welcome to My GitHub Profile
+
+I’m a **Full Stack Web Developer** with **3+ years of professional experience** in building scalable and reliable web applications. Passionate about technology and always eager to learn and grow in the dynamic world of software development.
+
+### 💼 Experience
+- **Main Stack:** PHP (CodeIgniter 4, Laravel)
+- Proficient in designing and developing full-featured web applications using **CodeIgniter 4** and **Laravel** frameworks.
+- Experienced in **SQL** databases, version control with **Git**, containerization with **Docker**, and modern software development practices.
+
+### 🌱 Currently Learning
+- **Golang** — building performant backend services.
+- **JavaScript** — enhancing frontend interactivity and learning modern frameworks.
+
+### 🔧 Tools & Technologies
+- PHP, Golang, JavaScript  
+- CodeIgniter 4, Laravel  
+- Git, Docker  
+- MySQL / SQL Server  
+- REST APIs, MVC Architecture  
+
+### 📫 Let’s Connect
+- 🌐 [Portfolio Website](https://ahdirmai-tech.vercel.app/#contact)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ridha-fahmi-junaidi-151450226/)  
+- 📧 Email: ahdirmai@gmail.com
+
+Thank you for visiting my profile! Feel free to connect or reach out for collaboration or interesting projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahdirmai) 
